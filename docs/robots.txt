@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /orsopapi/go/
+Sitemap: https://ronnie-recky.github.io/orsopapi/sitemap.xml

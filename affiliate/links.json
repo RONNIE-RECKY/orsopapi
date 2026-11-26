@@ -1,0 +1,15 @@
+{
+  "synthesia":   { "name": "Synthesia",   "url": "https://www.synthesia.io/",  "affiliate": "" },
+  "heygen":      { "name": "HeyGen",      "url": "https://www.heygen.com/",    "affiliate": "" },
+  "fliki":       { "name": "Fliki",       "url": "https://fliki.ai/",          "affiliate": "" },
+  "invideo":     { "name": "InVideo AI",  "url": "https://invideo.io/",        "affiliate": "" },
+  "elevenlabs":  { "name": "ElevenLabs",  "url": "https://elevenlabs.io/",     "affiliate": "" },
+  "murf":        { "name": "Murf AI",     "url": "https://murf.ai/",           "affiliate": "" },
+  "jasper":      { "name": "Jasper",      "url": "https://www.jasper.ai/",     "affiliate": "" },
+  "writesonic":  { "name": "Writesonic",  "url": "https://writesonic.com/",    "affiliate": "" },
+  "frase":       { "name": "Frase",       "url": "https://www.frase.io/",      "affiliate": "" },
+  "systeme":     { "name": "Systeme.io",  "url": "https://systeme.io/",        "affiliate": "" },
+  "kit":         { "name": "Kit",         "url": "https://kit.com/",           "affiliate": "" },
+  "canva":       { "name": "Canva",       "url": "https://www.canva.com/",     "affiliate": "" },
+  "hostinger":   { "name": "Hostinger",   "url": "https://www.hostinger.com/", "affiliate": "" }
+}
